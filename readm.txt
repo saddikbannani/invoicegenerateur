@@ -1,0 +1,16 @@
+Features to Consider Adding
+User authentication
+
+Save invoice templates
+
+Invoice history
+
+Multiple currency support
+
+Email invoice directly from the app
+
+Dark mode
+
+Mobile responsiveness improvements
+
+This implementation provides a solid foundation for a professional invoice generator that you can extend with additional features as needed.
